@@ -1,5 +1,5 @@
 # AdmissionEF
-
+![Build](https://github.com/AnastasiyaBe/AdmissionEF/actions/workflows/build.yml/badge.svg)
 Лабораторная работа №2 по дисциплине «Базы данных».
 
 **Тема:** Использование Entity Framework и LINQ для работы с базами данных.
